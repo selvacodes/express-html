@@ -10,7 +10,10 @@
     "express": "^4.15.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-places-autocomplete": "^5.0.0"
+    "react-places-autocomplete": "^5.0.0",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "styled-components": "^1.4.6"
   },
   "devDependencies": {
     "babel-loader": "^7.0.0",
