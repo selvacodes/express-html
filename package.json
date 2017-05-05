@@ -9,7 +9,8 @@
     "babel-preset-react": "^6.24.1",
     "express": "^4.15.2",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-places-autocomplete": "^5.0.0"
   },
   "devDependencies": {
     "babel-loader": "^7.0.0",
